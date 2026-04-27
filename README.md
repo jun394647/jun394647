@@ -91,7 +91,7 @@ CSS        ░ 0.6%
 
 | SSAFY | 설명 | 기술 스택 |
 |---------|------|---------|
-| **[Lunch-Info](https://github.com/jun394647/lunch-info)** | 삼성전기 웰스토리 메뉴판 및 커뮤니티 서비스 | Python |
+| **[Lunch-Info](https://github.com/jun394647/lunch-info)** | 삼성전기 웰스토리 메뉴판 및 커뮤니티 서비스 (BOB SSAFY) | Python |
 | **[bob_massege_bot](https://github.com/jun394647/bob_massege_bot)** | Mattermost web hook | Python |
 | **[SSAFT TIL Docs](https://github.com/jun394647/SSAFT_TIL_Doc)** ⭐ | SSAFY 학습 정리 노트 | Python, PyTorch, Html, Css, Django |
 | **[study-tools](https://github.com/jun394647/study-tools)** | SSAFY 학습 도구 모음 | Python |
