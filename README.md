@@ -138,10 +138,10 @@ CSS        ░ 0.6%
 
 ```
 📚 백엔드          📱 프론트엔드      🗄️ 데이터베이스   🤖 AI/ML
-├─ Python         ├─ HTML/CSS         ├─ SQL             ├─ PyTorch
-├─ Django         ├─ JavaScript       ├─ PLpgSQL         ├─ NumPy
-├─ REST API       ├─ Vue.js           └─ PostgreSQL      ├─ Pandas
-└─ DB 설계        └─ React                               └─ 데이터 분석
+├─ Python           ├─ HTML/CSS        ├─ SQL             ├─ PyTorch
+├─ Django           ├─ JavaScript      ├─ PLpgSQL         ├─ NumPy
+├─ REST API         ├─ Vue.js          └─ PostgreSQL      ├─ Pandas
+└─ DB 설계          └─ React                               └─ 데이터 분석
 ```
 
 ---
