@@ -100,6 +100,7 @@ CSS        ░ 0.6%
 ---
 
 | 프로젝트 | 설명 | 기술 스택 |
+|---------|------|---------|
 | **[금융 상품 조회 서비스](https://github.com/jun394647/pjt0123)** | REST API 기반 금융 상품 검색 | Python, Django |
 | **[개인 뉴스 서비스](https://github.com/jun394647/SSAFY_pjt_news)** | 투자자 맞춤형 뉴스 추천 | Python |
 | **[TIS](https://github.com/jun394647/TIS)** | AI 기반 투자 분석 엔진 | Python, PyTorch |
