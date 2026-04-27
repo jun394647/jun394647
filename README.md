@@ -141,7 +141,7 @@ CSS        ░ 0.6%
 ├─ Python           ├─ HTML/CSS        ├─ SQL             ├─ PyTorch
 ├─ Django           ├─ JavaScript      ├─ PLpgSQL         ├─ NumPy
 ├─ REST API         ├─ Vue.js          └─ PostgreSQL      ├─ Pandas
-└─ DB 설계          └─ React                               └─ 데이터 분석
+└─ DB 설계          └─ React                              └─ 데이터 분석
 ```
 
 ---
