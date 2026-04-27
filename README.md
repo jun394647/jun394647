@@ -95,7 +95,9 @@ CSS        ░ 0.6%
 | **[bob_massege_bot](https://github.com/jun394647/bob_massege_bot)** | Mattermost web hook | Python |
 | **[SSAFT TIL Docs](https://github.com/jun394647/SSAFT_TIL_Doc)** ⭐ | SSAFY 학습 정리 노트 | Jupyter Notebook |
 | **[study-tools](https://github.com/jun394647/study-tools)** | SSAFY 학습 도구 모음 | Python |
-|---------|------|---------|
+
+
+---
 
 | 프로젝트 | 설명 | 기술 스택 |
 | **[금융 상품 조회 서비스](https://github.com/jun394647/pjt0123)** | REST API 기반 금융 상품 검색 | Python, Django |
@@ -103,7 +105,7 @@ CSS        ░ 0.6%
 | **[TIS](https://github.com/jun394647/TIS)** | AI 기반 투자 분석 엔진 | Python, PyTorch |
 | **[FinGuard](https://github.com/jun394647/FinGuard)** ⭐ | 중장년층을 위한 AI 재정 수호 플랫폼 | Python, PyTorch, Html, Css, Django (개발 중) |
 | **[Understand-Investment](https://github.com/rleaderjoon/Understand-Investment)** ⭐ | KOSPI 200 종목 AI 주가 예측 데스크톱 대시보드 | Spring, Ollama (개발 중) |
-|---------|------|---------|
+
 
 
 ---
