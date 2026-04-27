@@ -73,7 +73,7 @@ PLpgSQL   ████ 6.7%
 [![Live Demo](https://img.shields.io/badge/Vercel-Live%20Demo-000?logo=vercel)](https://tis-zeta.vercel.app)
 
 | 항목 | 내용 |
-|:------:|:------:|
+|------|------|
 | 🎯 **목표** | 투자 정보 조회 및 분석 서비스 |
 | 🛠️ **스택** | TypeScript, React, CSS, Vercel |
 | 📊 **언어 구성** | TypeScript 90% \| JavaScript 9.4% \| CSS 0.6% |
@@ -93,7 +93,7 @@ CSS        ░ 0.6%
 |---------|------|---------|
 | **[Lunch-Info](https://github.com/jun394647/lunch-info)** | 삼성전기 웰스토리 메뉴판 서비스 | Python |
 | **[bob_massege_bot](https://github.com/jun394647/bob_massege_bot)** | Mattermost web hook | Python |
-| **[SSAFT TIL Docs](https://github.com/jun394647/SSAFT_TIL_Doc)** ⭐ | SSAFY 학습 정리 노트 | Jupyter Notebook |
+| **[SSAFT TIL Docs](https://github.com/jun394647/SSAFT_TIL_Doc)** ⭐ | SSAFY 학습 정리 노트 | Python, PyTorch, Html, Css, Django |
 | **[study-tools](https://github.com/jun394647/study-tools)** | SSAFY 학습 도구 모음 | Python |
 
 
