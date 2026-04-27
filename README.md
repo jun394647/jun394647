@@ -73,7 +73,7 @@ PLpgSQL   ████ 6.7%
 [![Live Demo](https://img.shields.io/badge/Vercel-Live%20Demo-000?logo=vercel)](https://tis-zeta.vercel.app)
 
 | 항목 | 내용 |
-|------|------|
+|:------:|:------:|
 | 🎯 **목표** | 투자 정보 조회 및 분석 서비스 |
 | 🛠️ **스택** | TypeScript, React, CSS, Vercel |
 | 📊 **언어 구성** | TypeScript 90% \| JavaScript 9.4% \| CSS 0.6% |
