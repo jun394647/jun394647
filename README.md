@@ -106,6 +106,7 @@ CSS        ░ 0.6%
 | **[TIS](https://github.com/jun394647/TIS)** | AI 기반 투자 분석 엔진 | Python, PyTorch |
 | **[FinGuard](https://github.com/jun394647/FinGuard)** ⭐⭐ | 중장년층을 위한 AI 재정 수호 플랫폼 | Python, PyTorch, Html, Css, Django (개발 중) |
 | **[Understand-Investment](https://github.com/rleaderjoon/Understand-Investment)** ⭐⭐⭐ | KOSPI 200 종목 AI 주가 예측 데스크톱 대시보드 | Spring, Ollama (개발 중) |
+| **Purple Finance** | ETF 조회, 주요 투자자 포트폴리오 조회, AI 투자 전략 제안, 투자 학습 게임피케이션 |
 | **문제 풀이 시스템(IDE)** | 알고리즘 및 SW 역량 테스트 문제 HUB |
 
 
