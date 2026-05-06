@@ -109,7 +109,7 @@ CSS        ░ 0.6%
 | **[Movies Diary](https://movies-oija.onrender.com/movies/)** |영화 감상문 저장 시스템, 맞춤형 영화 추천 알고리즘 | 
 | **Purple Finance** | ETF 조회, 주요 투자자 포트폴리오 조회, AI 투자 전략 제안, 투자 학습 게임피케이션 |
 | **문제 풀이 시스템(IDE)** | 알고리즘 및 SW 역량 테스트 문제 HUB |
-
+| **[SSOK]([https://movies-oija.onrender.com/movies/](https://ssok-production.up.railway.app/)** |다이어트 코칭 서비스 | 
 
 
 ---
