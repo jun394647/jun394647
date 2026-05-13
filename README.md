@@ -11,7 +11,7 @@
 ## 🎯 About Me
 
 ```
-💻 Full-Stack Developer | 🎓 SSAFY | 🌱 Continuous Learner
+🎓 빅데이터응용통계학 학사 | 💻 Full-Stack Developer | 🌱 Continuous Learner
 ```
 
 현대적인 웹 기술과 데이터 처리, AI/ML 기초를 습득했습니다. 
@@ -49,7 +49,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🪢 Framework
+### 🪢 Framework ⚙️🪪⌨️
 
 </div>
 
