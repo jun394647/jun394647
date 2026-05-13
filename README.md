@@ -84,6 +84,7 @@
     </tr>
   </table>
 </div>
+
 ---
 
 ## 🎨 Featured Projects
