@@ -27,7 +27,7 @@
     <tr>
       <td align="center" width="50%">
         <a href="https://solved.ac/hyenem/">
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyenem">
+          <img src="https://github-readme-stats.vercel.app/api/leetcode?username=1SigWz7MFH&theme=dracula&hide_title=false" />
           <img alt="GitHub stats" src="https://github-readme-streak-stats.herokuapp.com?theme=transparent&user=jun394647"/>
         </a>
       </td>
