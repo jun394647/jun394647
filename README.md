@@ -18,15 +18,14 @@
 백엔드부터 프론트엔드까지 전반적인 개발 경험을 쌓았으며, 실제 서비스 배포 경험을 보유하고 있습니다.
 
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/1SigWz7MFH?theme=dark&font=Recursive)
 ## 🛠️ Tech Stack
 <div align="center">
   <h3>🏆 Algorithm & Tech Stack</h3>
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <a href="https://solved.ac/hyenem/">
-          <img src="https://github-readme-stats.vercel.app/api/leetcode?username=1SigWz7MFH&theme=dracula&hide_title=false" />
+        <a href="https://leetcode.com/u/1SigWz7MFH/">
+          <img src="https://leetcard.jacoblin.cool/1SigWz7MFH?theme=dark&font=Recursive"/>
           <img alt="GitHub stats" src="https://github-readme-streak-stats.herokuapp.com?theme=transparent&user=jun394647"/>
         </a>
       </td>
