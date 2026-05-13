@@ -27,7 +27,7 @@
       <td align="center" width="50%">
         <a href="https://solved.ac/hyenem/">
           <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyenem">
-          <img src="http://mazandi.herokuapp.com/api?handle=hyenem&theme=warm"/>
+          <img alt="GitHub stats" src="https://github-readme-streak-stats.herokuapp.com?theme=transparent&user=alfaarghya"/>
         </a>
       </td>
       <td align="center" width="50%">
