@@ -177,7 +177,7 @@ CSS        ░ 0.6%
 
 ---
 
-## 🎓 SSAFY 학습 내용
+### 🎓 학습 내용
 
 ```
 📚 백엔드          📱 프론트엔드      🗄️ 데이터베이스   🤖 AI/ML
@@ -188,7 +188,13 @@ CSS        ░ 0.6%
 ```
 
 ---
-## 스티브 잡스 - 연설 中
+
+### 🌐 Languages
+- Korean: Native
+- English: Intermediate
+- 
+---
+
 >_**"Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma -- which is living with the results of other people's thinking. Don't let the noise of others' opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary."**_
 
 ---
