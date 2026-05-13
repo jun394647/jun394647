@@ -1,6 +1,6 @@
 # 👋 Jun Park's Portfolio
 
-> 🚀 SSAFY 풀스택 개발자 | 데이터 기반 서비스 개발 | AI/ML 관심사
+> 🚀 개발자 | 데이터 기반 서비스 개발 | AI/ML 관심사
 
 ---
 
