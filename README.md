@@ -1,4 +1,4 @@
-# 👋 Jun Park's Portfolio
+# 👋 박준형 (Luke Park)
 
 > 🚀 개발자 | 데이터 기반 서비스 개발 | AI/ML 관심사
 >
