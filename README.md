@@ -157,7 +157,10 @@ CSS        ░ 0.6%
 >_**"Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma -- which is living with the results of other people's thinking. Don't let the noise of others' opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary."**_
 
 ---
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/jun394647?pet-id=1" width="1000" height="120"/>
+</a>
+---
 ## 📫 연락처
 
 <div align="center">
