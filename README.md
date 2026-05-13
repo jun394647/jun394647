@@ -18,8 +18,7 @@
 백엔드부터 프론트엔드까지 전반적인 개발 경험을 쌓았으며, 실제 서비스 배포 경험을 보유하고 있습니다.
 
 ---
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=1SigWz7MFH&theme=dark)](https://leetcode.com/1SigWz7MFH)
-
+[![LeetCode Stats](https://github-readme-stats.vercel.app/api/leetcode?username=1SigWz7MFH&theme=dracula)](https://leetcode.com/1SigWz7MFH)
 ## 🛠️ Tech Stack
 <div align="center">
   <h3>🏆 Algorithm & Tech Stack</h3>
