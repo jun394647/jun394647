@@ -25,7 +25,7 @@
     <tr>
       <td align="center" width="50%">
         <a href="https://leetcode.com/u/1SigWz7MFH/">
-          <img src="https://leetcard.jacoblin.cool/1SigWz7MFH?theme=dark&font=Recursive"/>
+          <img src="https://leetcard.jacoblin.cool/luke_park?theme=dark&font=Recursive"/>
           <img alt="GitHub stats" src="https://github-readme-streak-stats.herokuapp.com?theme=transparent&user=jun394647"/>
         </a>
       </td>
