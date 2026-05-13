@@ -19,14 +19,13 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jun394647&theme=dark&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 ## 🛠️ Tech Stack
 <div align="center">
   <h3>🏆 Algorithm & Tech Stack</h3>
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <a href="https://leetcode.com/u/1SigWz7MFH/">
+        <a href="https://leetcode.com/u/luke_park/">
           <img src="https://leetcard.jacoblin.cool/luke_park?theme=dark&font=Recursive"/>
           <img alt="GitHub stats" src="https://github-readme-streak-stats.herokuapp.com?user=jun394647&theme=dark&date_format=%5BY.%5Dn.j"/>
         </a>
