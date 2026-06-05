@@ -8,6 +8,7 @@
 > 통찰력과 분석력을 바탕으로 사고하여, 혁신적인 서비스를 만드는 개발자가 되고자 합니다
 >
 > [포트폴리오](https://jun394647.github.io/junhyeong22.github.io/)
+> [SSAFY 프로젝트](https://jun394647.github.io/pjt0123/)
 ---
 
 ## 🎯 About Me
