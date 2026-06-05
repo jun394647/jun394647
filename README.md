@@ -150,9 +150,10 @@ CSS        ░ 0.6%
 | **[FinGuard](https://github.com/jun394647/FinGuard)** ⭐⭐ | 중장년층을 위한 AI 재정 수호 플랫폼 | Python, PyTorch, Html, Css, Django (개발 중) |
 | **[Understand-Investment](https://github.com/rleaderjoon/Understand-Investment)** ⭐⭐⭐ | KOSPI 200 종목 AI 주가 예측 데스크톱 대시보드 | Spring, Ollama (개발 중) |
 | **[Movies Diary](https://movies-oija.onrender.com/movies/)** |영화 감상문 저장 시스템, 맞춤형 영화 추천 알고리즘 | 
-| **Purple Finance** | ETF 조회, 주요 투자자 포트폴리오 조회, AI 투자 전략 제안, 투자 학습 게임피케이션 |
+| **똑디** | ETF 조회, 주요 투자자 포트폴리오 조회, AI 투자 전략 제안, 투자 학습 게임피케이션 |
 | **문제 풀이 시스템(IDE)** | 알고리즘 및 SW 역량 테스트 문제 HUB |
 | **[SSOK](https://github.com/jun394647/ssok)** | AI 다이어트 코칭 서비스 | 
+| **[이음](https://github.com/jun394647/ssok)** | AI 역사해설 서비스 (카카오 해커톤) | 
 
 
 ---
